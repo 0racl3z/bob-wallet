@@ -174,7 +174,7 @@
     "redux-thunk": "2.3.0",
     "rimraf": "2.6.2",
     "semver": "^7.3.5",
-    "sha3": "2.0.0",
+    "sha3": "2.1.4",
     "shakedex": "0.0.15",
     "source-map-support": "0.5.9",
     "tcp-port-used": "1.0.1",
